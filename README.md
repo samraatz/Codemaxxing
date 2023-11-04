@@ -7,4 +7,8 @@ It should pop up a tab with the app rujnning on localhost.
 
 The machine learning model uses patient information to predict their mental health status. It will be useful in classifying patients and help doctors in the process. The model used is Random forest regressor and the module used is sci kit learn along with matplotlib for visualization
 
-![](https://github.com/samraatz/Codemaxxing/wiki)
+Harro everynyan! This is codemaxxing's project repository :3 ฅ՞•ﻌ•՞ฅ ✩ 🎀°｡🎧⋆⸜ 🌷
+
+![Chatbot](https://github.com/samraatz/Codemaxxing/blob/main/image.png)
+![caht 2](https://github.com/samraatz/Codemaxxing/blob/main/hubb.png)
+![Machine learning](https://github.com/samraatz/Codemaxxing/blob/main/WhatsApp%20Image%202023-11-04%20at%2005.13.20.jpeg)
