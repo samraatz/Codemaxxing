@@ -15,5 +15,5 @@ The machine learning model uses patient information to predict their mental heal
 ![Machine learning](https://github.com/samraatz/Codemaxxing/blob/main/WhatsApp%20Image%202023-11-04%20at%2005.13.20.jpeg)
 
 <p align="center">
-  <img src="[https://github.com/samraatz/Codemaxxing/blob/main/hubb.png)https://github.com/samraatz/Codemaxxing/blob/main/hubb.png]">
+  <img src="https://github.com/samraatz/Codemaxxing/blob/main/hubb.png)https://github.com/samraatz/Codemaxxing/blob/main/hubb.png">
 </p>
